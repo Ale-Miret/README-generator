@@ -32,7 +32,7 @@ const questions = [
         message: 'Which license does this project use?'
     },
     {
-        name: 'contributers',
+        name: 'contributing',
         type: 'input',
         message: 'Please list any contributers that worked on this project, if none, enter NA:'
     },
